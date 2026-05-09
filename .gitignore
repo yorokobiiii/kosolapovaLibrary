@@ -1,0 +1,23 @@
+# Папки сборки
+bin/
+obj/
+
+# Файлы Visual Studio
+.vs/
+*.user
+*.suo
+
+# База данных 
+*.db
+*.db-shm
+*.db-wal
+
+# Docker 
+*.pid
+
+# Переменные окружения 
+.env
+.env.local
+
+# Пользовательские настройки
+appsettings.Development.json

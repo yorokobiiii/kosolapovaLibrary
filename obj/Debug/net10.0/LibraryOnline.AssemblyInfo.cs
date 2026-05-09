@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryOnline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e86633693dbe4ceb37ca12cb8fdfa81dae751b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccdd433b3f3170ba3d4c4a77c585970bc627cede")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryOnline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryOnline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
